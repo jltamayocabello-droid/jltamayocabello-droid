@@ -76,7 +76,7 @@ Mi enfoque principal es transformar requerimientos complejos en interfaces intui
   <!-- Proyecto 1 -->
   <tr align="center">
     <td width="100%" valign="top">
-      <h3>🚀 Product Showcase SPA</h3>
+      <h3>Proyecto 1: Product Showcase SPA</h3>
       <p align="center">
         <img src="assets/product-showcase1.png" alt="Product Showcase 1" width="48%" height="220px"/>
         <img src="assets/product-showcase2.png" alt="Product Showcase 2" width="48%" height="220px"/>
@@ -86,7 +86,7 @@ Mi enfoque principal es transformar requerimientos complejos en interfaces intui
         <a href="https://product-showcase-vue.netlify.app/"><img src="https://img.shields.io/badge/Despliegue-🚀-blue?style=for-the-badge" alt="Despliegue"/></a>
         <a href="https://github.com/jltamayocabello-droid/m7_abp_product-showcase"><img src="https://img.shields.io/badge/Repositorio-📂-black?style=for-the-badge" alt="Repositorio"/></a>
       </p>
-      <p align="center">🛠️ <b>Vue 3, Pinia, Bootstrap 5, Firebase, Netlify</b></p>
+      <p align="center">🛠️ <b>Vue 3, Vite, Vue Router 4, Pinia, Bootstrap 5, Firebase, Vuetify, GitHub Pages, Netlify</b></p>
       <br>
     </td>
   </tr>
@@ -94,7 +94,7 @@ Mi enfoque principal es transformar requerimientos complejos en interfaces intui
   <!-- Proyecto 2 -->
   <tr align="center">
     <td width="100%" valign="top">
-      <h3>📚 Booklist SPA</h3>
+      <h3>Proyecto 2: Booklist SPA</h3>
       <p align="center">
         <img src="assets/booklist-spa1.png" alt="Booklist SPA 1" width="48%" height="220px"/>
         <img src="assets/booklist-spa2.png" alt="Booklist SPA 2" width="48%" height="220px"/>
@@ -104,7 +104,7 @@ Mi enfoque principal es transformar requerimientos complejos en interfaces intui
         <a href="https://m6-abp-booklist-spa.vercel.app/"><img src="https://img.shields.io/badge/Despliegue-🚀-blue?style=for-the-badge" alt="Despliegue"/></a>
         <a href="https://github.com/jltamayocabello-droid/m6_abp_booklist-spa"><img src="https://img.shields.io/badge/Repositorio-📂-black?style=for-the-badge" alt="Repositorio"/></a>
       </p>
-      <p align="center">🛠️ <b>Vue 3, Pinia, Vercel</b></p>
+      <p align="center">🛠️ <b>Vue 3, Vite, Vue Router 4, Pinia, GitHub Pages, Vercel</b></p>
       <br>
     </td>
   </tr>
@@ -112,7 +112,7 @@ Mi enfoque principal es transformar requerimientos complejos en interfaces intui
   <!-- Proyecto 3 -->
   <tr align="center">
     <td width="100%" valign="top">
-      <h3>💰 SmartBudget</h3>
+      <h3>Proyecto 3: SmartBudget</h3>
       <p align="center">
         <img src="assets/smartbudget1.png" alt="SmartBudget 1" width="48%" height="220px"/>
         <img src="assets/smartbudget2.png" alt="SmartBudget 2" width="48%" height="220px"/>
@@ -122,7 +122,7 @@ Mi enfoque principal es transformar requerimientos complejos en interfaces intui
         <a href="https://jltamayocabello-droid.github.io/m3-abp-smartbudget/"><img src="https://img.shields.io/badge/Despliegue-🚀-blue?style=for-the-badge" alt="Despliegue"/></a>
         <a href="https://github.com/jltamayocabello-droid/m3-abp-smartbudget"><img src="https://img.shields.io/badge/Repositorio-📂-black?style=for-the-badge" alt="Repositorio"/></a>
       </p>
-      <p align="center">🛠️ <b>BEM, SASS, Bootstrap 5</b></p>
+      <p align="center">🛠️ <b>BEM, SASS, Bootstrap 5, Flexbox, CSS Grid</b></p>
       <br>
     </td>
   </tr>
@@ -132,6 +132,7 @@ Mi enfoque principal es transformar requerimientos complejos en interfaces intui
     <td width="100%" valign="top">
       <h3>✨ Próximamente</h3>
       <p align="center">Nuevos proyectos explorando el mundo del Backend y la integración con IA.</p>
+      <br>
     </td>
   </tr>
 </table>
