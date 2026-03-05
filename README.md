@@ -1,7 +1,7 @@
 # ¡Hola! Soy Jorge Tamayo Cabello 👋
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jltamayocabello-droid/jltamayocabello-droid/main/assets/pixel-coder.gif" alt="Dark Pixel Coder Icon" width="600px"/>
+  <img src="assets/pixel-coder.png" alt="Dark Pixel Coder Icon" width="600px"/>
 </p>
 
 ### Apasionado por la tecnología y desarrollador Front-End en constante evolución.
@@ -17,8 +17,6 @@ Mi enfoque principal es transformar requerimientos complejos en interfaces intui
 ## 📈 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jltamayocabello-droid&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jltamayocabello-droid&layout=compact&theme=radical" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jltamayocabello-droid&theme=radical" alt="GitHub Streak Stats" />
 </p>
 
@@ -73,7 +71,7 @@ Mi enfoque principal es transformar requerimientos complejos en interfaces intui
   <tr>
     <td width="50%" valign="top">
       <h3>🚀 Product Showcase SPA</h3>
-      <img src="https://raw.githubusercontent.com/jltamayocabello-droid/jltamayocabello-droid/main/assets/product-showcase.png" alt="Product Showcase" width="100%"/>
+      <img src="assets/product-showcase.png" alt="Product Showcase" width="100%"/>
       <p>Single Page Application moderna diseñada como catálogo interactivo. Enfoque en performance y UX fluida.</p>
       <p>
         <a href="https://product-showcase-vue.netlify.app/"><img src="https://img.shields.io/badge/Demo-🚀-blue?style=for-the-badge" alt="Demo"/></a>
@@ -83,7 +81,7 @@ Mi enfoque principal es transformar requerimientos complejos en interfaces intui
     </td>
     <td width="50%" valign="top">
       <h3>📚 Booklist SPA</h3>
-      <img src="https://raw.githubusercontent.com/jltamayocabello-droid/jltamayocabello-droid/main/assets/booklist-spa.png" alt="Booklist SPA" width="100%"/>
+      <img src="assets/booklist-spa.png" alt="Booklist SPA" width="100%"/>
       <p>Gestión de catálogos bibliográficos con filtrado dinámico y registro en tiempo real. Interfaz escalable.</p>
       <p>
         <a href="https://m6-abp-booklist-spa.vercel.app/"><img src="https://img.shields.io/badge/Demo-🚀-blue?style=for-the-badge" alt="Demo"/></a>
@@ -95,13 +93,13 @@ Mi enfoque principal es transformar requerimientos complejos en interfaces intui
   <tr>
     <td width="50%" valign="top">
       <h3>💰 SmartBudget</h3>
-      <img src="https://raw.githubusercontent.com/jltamayocabello-droid/jltamayocabello-droid/main/assets/smartbudget.png" alt="SmartBudget" width="100%"/>
+      <img src="assets/smartbudget.png" alt="SmartBudget" width="100%"/>
       <p>Visualizador de finanzas personales con arquitectura modular y diseño Mobile First.</p>
       <p>
         <a href="https://jltamayocabello-droid.github.io/m3-abp-smartbudget/"><img src="https://img.shields.io/badge/Demo-🚀-blue?style=for-the-badge" alt="Demo"/></a>
         <a href="https://github.com/jltamayocabello-droid/m3-abp-smartbudget"><img src="https://img.shields.io/badge/Repo-📂-black?style=for-the-badge" alt="Repo"/></a>
       </p>
-      <p>🛠️ <b>BEM, SASS, Bootstrap 5, GitHub Pages</b></p>
+      <p>🛠️ <b>BEM, SASS, Bootstrap 5</b></p>
     </td>
     <td width="50%" valign="top">
       <!-- Espacio para futuro proyecto -->
