@@ -1,10 +1,21 @@
 # ¡Hola! Soy Jorge Tamayo Cabello 👋
 
-### Front-End Developer | Especialista en Vue 3 (Composition API) & Pinia
+### Apasionado por la tecnología y desarrollador Front-End en constante evolución.
 
-Soy un desarrollador Front-End apasionado por la creación de Single Page Applications (SPAs) escalables y performantes. Me especializo en el ecosistema de Vue.js, aplicando arquitecturas limpias, componentes reutilizables y principios de sobriedad digital para optimizar la experiencia del usuario.
+Me especializo en la creación de **Single Page Applications (SPAs)** escalables y eficientes utilizando el ecosistema de **Vue.js**. Mi enfoque se centra en la implementación de arquitecturas limpias, componentes altamente reutilizables y principios de sobriedad digital para garantizar una experiencia de usuario óptima.
+
+Domino la metodología **BEM** y el preprocesamiento con **SASS** para un desarrollo de estilos profesional y mantenible. Actualmente, mi curiosidad me impulsa a explorar el potencial de la **IA integrada al desarrollo** y a expandir mi stack hacia el **Backend**.
 
 Mi enfoque principal es transformar requerimientos complejos en interfaces intuitivas y eficientes.
+
+---
+
+## 📈 Mis Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jltamayocabello-droid&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jltamayocabello-droid&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
@@ -56,9 +67,47 @@ Mi enfoque principal es transformar requerimientos complejos en interfaces intui
 
 ## 🏆 Proyectos Destacados
 
-- **[Product Showcase SPA]**: Desarrollo de una Single Page Application (SPA) moderna y responsive diseñada como catálogo interactivo de productos. Se utiliza Vue 3, Pinia, Vue Router, Bootstrap 5, Firebase y Netlify.]. [[Enlace a la demo](https://product-showcase-vue.netlify.app/)] | [[Enlace al repo](https://github.com/jltamayocabello-droid/m7_abp_product-showcase)]
-- **[Booklist SPA]**: [Desarrollo de una Single Page Application (SPA) interactiva para la gestión de catálogos bibliográficos. Incluye registro, filtrado dinámico y gestión en tiempo real con una interfaz fluida y escalable. Se utiliza Vue 3, Pinia, Vue Router, Axios, BEM, SASS y Vercel.]. [[Enlace a la demo](https://m6-abp-booklist-spa.vercel.app/)] | [[Enlace al repo](https://github.com/jltamayocabello-droid/m6_abp_booklist-spa)]
-- **[SmartBudget]**: [App web para visualizar y gestionar finanzas personales . Este repositorio contiene una maqueta funcional de la Landing Page, desarrollada con un enfoque modular, escalable y responsiva (Mobile First). Se utiliza BEM, SASS y Bootstrap 5.]. [[Enlace a la demo](https://jltamayocabello-droid.github.io/m3-abp-smartbudget/)] | [[Enlace al repo](https://github.com/jltamayocabello-droid/m3-abp-smartbudget)]
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 Product Showcase SPA</h3>
+      <img src="https://raw.githubusercontent.com/jltamayocabello-droid/jltamayocabello-droid/main/assets/product-showcase.png" alt="Product Showcase" width="100%"/>
+      <p>Single Page Application moderna diseñada como catálogo interactivo. Enfoque en performance y UX fluida.</p>
+      <p>
+        <a href="https://product-showcase-vue.netlify.app/"><img src="https://img.shields.io/badge/Demo-🚀-blue?style=for-the-badge" alt="Demo"/></a>
+        <a href="https://github.com/jltamayocabello-droid/m7_abp_product-showcase"><img src="https://img.shields.io/badge/Repo-📂-black?style=for-the-badge" alt="Repo"/></a>
+      </p>
+      <p>🛠️ <b>Vue 3, Pinia, Bootstrap 5, Firebase, Netlify</b></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📚 Booklist SPA</h3>
+      <img src="https://raw.githubusercontent.com/jltamayocabello-droid/jltamayocabello-droid/main/assets/booklist-spa.png" alt="Booklist SPA" width="100%"/>
+      <p>Gestión de catálogos bibliográficos con filtrado dinámico y registro en tiempo real. Interfaz escalable.</p>
+      <p>
+        <a href="https://m6-abp-booklist-spa.vercel.app/"><img src="https://img.shields.io/badge/Demo-🚀-blue?style=for-the-badge" alt="Demo"/></a>
+        <a href="https://github.com/jltamayocabello-droid/m6_abp_booklist-spa"><img src="https://img.shields.io/badge/Repo-📂-black?style=for-the-badge" alt="Repo"/></a>
+      </p>
+      <p>🛠️ <b>Vue 3, Pinia, Axios, BEM, SASS, Vercel</b></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💰 SmartBudget</h3>
+      <img src="https://raw.githubusercontent.com/jltamayocabello-droid/jltamayocabello-droid/main/assets/smartbudget.png" alt="SmartBudget" width="100%"/>
+      <p>Visualizador de finanzas personales con arquitectura modular y diseño Mobile First.</p>
+      <p>
+        <a href="https://jltamayocabello-droid.github.io/m3-abp-smartbudget/"><img src="https://img.shields.io/badge/Demo-🚀-blue?style=for-the-badge" alt="Demo"/></a>
+        <a href="https://github.com/jltamayocabello-droid/m3-abp-smartbudget"><img src="https://img.shields.io/badge/Repo-📂-black?style=for-the-badge" alt="Repo"/></a>
+      </p>
+      <p>🛠️ <b>BEM, SASS, Bootstrap 5, GitHub Pages</b></p>
+    </td>
+    <td width="50%" valign="top">
+      <!-- Espacio para futuro proyecto -->
+      <h3>✨ Próximamente</h3>
+      <p>Nuevos proyectos explorando el mundo del Backend y la integración con IA.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
