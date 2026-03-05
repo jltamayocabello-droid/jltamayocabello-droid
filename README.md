@@ -82,10 +82,10 @@ Mi enfoque principal es transformar requerimientos complejos en interfaces intui
       </p>
       <p>Single Page Application moderna diseñada como catálogo interactivo. Enfoque en performance y UX fluida.</p>
       <p align="center">
-        <a href="https://product-showcase-vue.netlify.app/"><img src="https://img.shields.io/badge/Demo-🚀-blue?style=for-the-badge" alt="Demo"/></a>
-        <a href="https://github.com/jltamayocabello-droid/m7_abp_product-showcase"><img src="https://img.shields.io/badge/Repo-📂-black?style=for-the-badge" alt="Repo"/></a>
+        <a href="https://product-showcase-vue.netlify.app/"><img src="https://img.shields.io/badge/Despliegue-🚀-blue?style=for-the-badge" alt="Despliegue"/></a>
+        <a href="https://github.com/jltamayocabello-droid/m7_abp_product-showcase"><img src="https://img.shields.io/badge/Repositorio-📂-black?style=for-the-badge" alt="Repositorio"/></a>
       </p>
-      <p>🛠️ <b>Vue 3, Pinia, Bootstrap 5, Firebase, Netlify</b></p>
+      <p align="center">🛠️ <b>Vue 3, Pinia, Bootstrap 5, Firebase, Netlify</b></p>
     </td>
   </tr>
   
@@ -97,12 +97,12 @@ Mi enfoque principal es transformar requerimientos complejos en interfaces intui
         <img src="assets/booklist-spa1.png" alt="Booklist SPA 1" width="48%" height="220px"/>
         <img src="assets/booklist-spa2.png" alt="Booklist SPA 2" width="48%" height="220px"/>
       </p>
-      <p>Gestión de catálogos bibliográficos con filtrado dinámico y registro en tiempo real. Interfaz escalable.</p>
+      <p align="center">Gestión de catálogos bibliográficos con filtrado dinámico y registro en tiempo real. Interfaz escalable.</p>
       <p align="center">
-        <a href="https://m6-abp-booklist-spa.vercel.app/"><img src="https://img.shields.io/badge/Demo-🚀-blue?style=for-the-badge" alt="Demo"/></a>
-        <a href="https://github.com/jltamayocabello-droid/m6_abp_booklist-spa"><img src="https://img.shields.io/badge/Repo-📂-black?style=for-the-badge" alt="Repo"/></a>
+        <a href="https://m6-abp-booklist-spa.vercel.app/"><img src="https://img.shields.io/badge/Despliegue-🚀-blue?style=for-the-badge" alt="Despliegue"/></a>
+        <a href="https://github.com/jltamayocabello-droid/m6_abp_booklist-spa"><img src="https://img.shields.io/badge/Repositorio-📂-black?style=for-the-badge" alt="Repositorio"/></a>
       </p>
-      <p>🛠️ <b>Vue 3, Pinia, Vercel</b></p>
+      <p align="center">🛠️ <b>Vue 3, Pinia, Vercel</b></p>
     </td>
   </tr>
 
@@ -114,12 +114,12 @@ Mi enfoque principal es transformar requerimientos complejos en interfaces intui
         <img src="assets/smartbudget1.png" alt="SmartBudget 1" width="48%" height="220px"/>
         <img src="assets/smartbudget2.png" alt="SmartBudget 2" width="48%" height="220px"/>
       </p>
-      <p>Visualizador de finanzas personales con arquitectura modular y diseño Mobile First.</p>
+      <p align="center">Visualizador de finanzas personales con arquitectura modular y diseño Mobile First.</p>
       <p align="center">
-        <a href="https://jltamayocabello-droid.github.io/m3-abp-smartbudget/"><img src="https://img.shields.io/badge/Demo-🚀-blue?style=for-the-badge" alt="Demo"/></a>
-        <a href="https://github.com/jltamayocabello-droid/m3-abp-smartbudget"><img src="https://img.shields.io/badge/Repo-📂-black?style=for-the-badge" alt="Repo"/></a>
+        <a href="https://jltamayocabello-droid.github.io/m3-abp-smartbudget/"><img src="https://img.shields.io/badge/Despliegue-🚀-blue?style=for-the-badge" alt="Despliegue"/></a>
+        <a href="https://github.com/jltamayocabello-droid/m3-abp-smartbudget"><img src="https://img.shields.io/badge/Repositorio-📂-black?style=for-the-badge" alt="Repositorio"/></a>
       </p>
-      <p>🛠️ <b>BEM, SASS, Bootstrap 5</b></p>
+      <p align="center">🛠️ <b>BEM, SASS, Bootstrap 5</b></p>
     </td>
   </tr>
 
@@ -127,7 +127,7 @@ Mi enfoque principal es transformar requerimientos complejos en interfaces intui
   <tr>
     <td width="100%" valign="top">
       <h3>✨ Próximamente</h3>
-      <p>Nuevos proyectos explorando el mundo del Backend y la integración con IA.</p>
+      <p align="center">Nuevos proyectos explorando el mundo del Backend y la integración con IA.</p>
     </td>
   </tr>
 </table>
