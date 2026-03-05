@@ -1,7 +1,7 @@
 # ¡Hola! Soy Jorge Tamayo Cabello 👋
 
 <p align="center">
-  <img src="assets/pixel-coder.png" alt="Dark Pixel Coder Icon" width="300px"/>
+  <img src="assets/Programador.png" alt="Programador" width="350px"/>
 </p>
 
 ### Apasionado por la tecnología y desarrollador Front-End en constante evolución.
@@ -75,7 +75,10 @@ Mi enfoque principal es transformar requerimientos complejos en interfaces intui
   <tr>
     <td width="50%" valign="top">
       <h3>🚀 Product Showcase SPA</h3>
-      <img src="assets/product-showcase.png" alt="Product Showcase" width="100%"/>
+      <p align="center">
+        <img src="assets/product-showcase1.png" alt="Product Showcase 1" height="150px"/>
+        <img src="assets/product-showcase2.png" alt="Product Showcase 2" height="150px"/>
+      </p>
       <p>Single Page Application moderna diseñada como catálogo interactivo. Enfoque en performance y UX fluida.</p>
       <p>
         <a href="https://product-showcase-vue.netlify.app/"><img src="https://img.shields.io/badge/Demo-🚀-blue?style=for-the-badge" alt="Demo"/></a>
@@ -85,7 +88,10 @@ Mi enfoque principal es transformar requerimientos complejos en interfaces intui
     </td>
     <td width="50%" valign="top">
       <h3>📚 Booklist SPA</h3>
-      <img src="assets/booklist-spa.png" alt="Booklist SPA" width="100%"/>
+      <p align="center">
+        <img src="assets/booklist-spa1.png" alt="Booklist SPA 1" height="150px"/>
+        <img src="assets/booklist-spa2.png" alt="Booklist SPA 2" height="150px"/>
+      </p>
       <p>Gestión de catálogos bibliográficos con filtrado dinámico y registro en tiempo real. Interfaz escalable.</p>
       <p>
         <a href="https://m6-abp-booklist-spa.vercel.app/"><img src="https://img.shields.io/badge/Demo-🚀-blue?style=for-the-badge" alt="Demo"/></a>
@@ -97,7 +103,10 @@ Mi enfoque principal es transformar requerimientos complejos en interfaces intui
   <tr>
     <td width="50%" valign="top">
       <h3>💰 SmartBudget</h3>
-      <img src="assets/smartbudget.png" alt="SmartBudget" width="100%"/>
+      <p align="center">
+        <img src="assets/smartbudget1.png" alt="SmartBudget 1" height="150px"/>
+        <img src="assets/smartbudget2.png" alt="SmartBudget 2" height="150px"/>
+      </p>
       <p>Visualizador de finanzas personales con arquitectura modular y diseño Mobile First.</p>
       <p>
         <a href="https://jltamayocabello-droid.github.io/m3-abp-smartbudget/"><img src="https://img.shields.io/badge/Demo-🚀-blue?style=for-the-badge" alt="Demo"/></a>
