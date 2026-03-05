@@ -38,6 +38,7 @@ Mi enfoque principal es transformar requerimientos complejos en interfaces intui
 ![Vue Router](https://img.shields.io/badge/Vue_Router-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Pinia](https://img.shields.io/badge/Pinia-ffe162?style=for-the-badge&logo=pinia&logoColor=black)
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 
 ### 🎨 Estilos & UI
 
@@ -73,7 +74,7 @@ Mi enfoque principal es transformar requerimientos complejos en interfaces intui
 
 <table border="0">
   <!-- Proyecto 1 -->
-  <tr>
+  <tr align="center">
     <td width="100%" valign="top">
       <h3>🚀 Product Showcase SPA</h3>
       <p align="center">
@@ -86,11 +87,12 @@ Mi enfoque principal es transformar requerimientos complejos en interfaces intui
         <a href="https://github.com/jltamayocabello-droid/m7_abp_product-showcase"><img src="https://img.shields.io/badge/Repositorio-📂-black?style=for-the-badge" alt="Repositorio"/></a>
       </p>
       <p align="center">🛠️ <b>Vue 3, Pinia, Bootstrap 5, Firebase, Netlify</b></p>
+      <br>
     </td>
   </tr>
   
   <!-- Proyecto 2 -->
-  <tr>
+  <tr align="center">
     <td width="100%" valign="top">
       <h3>📚 Booklist SPA</h3>
       <p align="center">
@@ -103,11 +105,12 @@ Mi enfoque principal es transformar requerimientos complejos en interfaces intui
         <a href="https://github.com/jltamayocabello-droid/m6_abp_booklist-spa"><img src="https://img.shields.io/badge/Repositorio-📂-black?style=for-the-badge" alt="Repositorio"/></a>
       </p>
       <p align="center">🛠️ <b>Vue 3, Pinia, Vercel</b></p>
+      <br>
     </td>
   </tr>
 
   <!-- Proyecto 3 -->
-  <tr>
+  <tr align="center">
     <td width="100%" valign="top">
       <h3>💰 SmartBudget</h3>
       <p align="center">
@@ -120,11 +123,12 @@ Mi enfoque principal es transformar requerimientos complejos en interfaces intui
         <a href="https://github.com/jltamayocabello-droid/m3-abp-smartbudget"><img src="https://img.shields.io/badge/Repositorio-📂-black?style=for-the-badge" alt="Repositorio"/></a>
       </p>
       <p align="center">🛠️ <b>BEM, SASS, Bootstrap 5</b></p>
+      <br>
     </td>
   </tr>
 
   <!-- Próximamente -->
-  <tr>
+  <tr align="center">
     <td width="100%" valign="top">
       <h3>✨ Próximamente</h3>
       <p align="center">Nuevos proyectos explorando el mundo del Backend y la integración con IA.</p>
