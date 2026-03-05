@@ -1,5 +1,9 @@
 # ¡Hola! Soy Jorge Tamayo Cabello 👋
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jltamayocabello-droid/jltamayocabello-droid/main/assets/pixel-coder.gif" alt="Dark Pixel Coder Icon" width="600px"/>
+</p>
+
 ### Apasionado por la tecnología y desarrollador Front-End en constante evolución.
 
 Me especializo en la creación de **Single Page Applications (SPAs)** escalables y eficientes utilizando el ecosistema de **Vue.js**. Mi enfoque se centra en la implementación de arquitecturas limpias, componentes altamente reutilizables y principios de sobriedad digital para garantizar una experiencia de usuario óptima.
@@ -15,6 +19,7 @@ Mi enfoque principal es transformar requerimientos complejos en interfaces intui
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jltamayocabello-droid&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jltamayocabello-droid&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jltamayocabello-droid&theme=radical" alt="GitHub Streak Stats" />
 </p>
 
 ---
@@ -32,6 +37,7 @@ Mi enfoque principal es transformar requerimientos complejos en interfaces intui
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Vue Router](https://img.shields.io/badge/Vue_Router-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Pinia](https://img.shields.io/badge/Pinia-ffe162?style=for-the-badge&logo=pinia&logoColor=black)
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
 
 ### 🎨 Estilos & UI
 
@@ -39,10 +45,6 @@ Mi enfoque principal es transformar requerimientos complejos en interfaces intui
 ![Bootstrap 5](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![BEM](https://img.shields.io/badge/BEM-000?style=for-the-badge&logo=bem&logoColor=white)
 ![Responsive Design](https://img.shields.io/badge/Responsive_Design-000000?style=for-the-badge&logo=responsive&logoColor=white)
-
-### 🔌 Conexión de Datos
-
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 
 ### 🛠️ Herramientas & Deployment
 
