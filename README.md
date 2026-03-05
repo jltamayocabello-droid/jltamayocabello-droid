@@ -131,7 +131,7 @@ Mi enfoque principal es transformar requerimientos complejos en interfaces intui
   <tr align="center">
     <td width="100%" valign="top">
       <h3>✨ Próximamente</h3>
-      <p align="center">Nuevos proyectos explorando el mundo del Backend y la integración con IA.</p>
+      <p align="center">Nuevos proyectos explorando el mundo del Backend y el desarrollo de aplicaciones con asistencia de la IA.</p>
       <br>
     </td>
   </tr>
