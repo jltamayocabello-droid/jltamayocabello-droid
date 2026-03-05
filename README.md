@@ -72,12 +72,13 @@ Mi enfoque principal es transformar requerimientos complejos en interfaces intui
 ## 🏆 Proyectos Destacados
 
 <table border="0">
+  <!-- Proyecto 1 -->
   <tr>
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
       <h3>🚀 Product Showcase SPA</h3>
       <p align="center">
-        <img src="assets/product-showcase1.png" alt="Product Showcase 1" height="150px"/>
-        <img src="assets/product-showcase2.png" alt="Product Showcase 2" height="150px"/>
+        <img src="assets/product-showcase1.png" alt="Product Showcase 1" width="49%"/>
+        <img src="assets/product-showcase2.png" alt="Product Showcase 2" width="49%"/>
       </p>
       <p>Single Page Application moderna diseñada como catálogo interactivo. Enfoque en performance y UX fluida.</p>
       <p>
@@ -86,11 +87,15 @@ Mi enfoque principal es transformar requerimientos complejos en interfaces intui
       </p>
       <p>🛠️ <b>Vue 3, Pinia, Bootstrap 5, Firebase, Netlify</b></p>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  
+  <!-- Proyecto 2 -->
+  <tr>
+    <td width="100%" valign="top">
       <h3>📚 Booklist SPA</h3>
       <p align="center">
-        <img src="assets/booklist-spa1.png" alt="Booklist SPA 1" height="150px"/>
-        <img src="assets/booklist-spa2.png" alt="Booklist SPA 2" height="150px"/>
+        <img src="assets/booklist-spa1.png" alt="Booklist SPA 1" width="49%"/>
+        <img src="assets/booklist-spa2.png" alt="Booklist SPA 2" width="49%"/>
       </p>
       <p>Gestión de catálogos bibliográficos con filtrado dinámico y registro en tiempo real. Interfaz escalable.</p>
       <p>
@@ -100,12 +105,14 @@ Mi enfoque principal es transformar requerimientos complejos en interfaces intui
       <p>🛠️ <b>Vue 3, Pinia, Vercel</b></p>
     </td>
   </tr>
+
+  <!-- Proyecto 3 -->
   <tr>
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
       <h3>💰 SmartBudget</h3>
       <p align="center">
-        <img src="assets/smartbudget1.png" alt="SmartBudget 1" height="150px"/>
-        <img src="assets/smartbudget2.png" alt="SmartBudget 2" height="150px"/>
+        <img src="assets/smartbudget1.png" alt="SmartBudget 1" width="49%"/>
+        <img src="assets/smartbudget2.png" alt="SmartBudget 2" width="49%"/>
       </p>
       <p>Visualizador de finanzas personales con arquitectura modular y diseño Mobile First.</p>
       <p>
@@ -114,8 +121,11 @@ Mi enfoque principal es transformar requerimientos complejos en interfaces intui
       </p>
       <p>🛠️ <b>BEM, SASS, Bootstrap 5</b></p>
     </td>
-    <td width="50%" valign="top">
-      <!-- Espacio para futuro proyecto -->
+  </tr>
+
+  <!-- Próximamente -->
+  <tr>
+    <td width="100%" valign="top">
       <h3>✨ Próximamente</h3>
       <p>Nuevos proyectos explorando el mundo del Backend y la integración con IA.</p>
     </td>
