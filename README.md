@@ -77,11 +77,11 @@ Mi enfoque principal es transformar requerimientos complejos en interfaces intui
     <td width="100%" valign="top">
       <h3>🚀 Product Showcase SPA</h3>
       <p align="center">
-        <img src="assets/product-showcase1.png" alt="Product Showcase 1" width="49%"/>
-        <img src="assets/product-showcase2.png" alt="Product Showcase 2" width="49%"/>
+        <img src="assets/product-showcase1.png" alt="Product Showcase 1" width="48%" height="220px"/>
+        <img src="assets/product-showcase2.png" alt="Product Showcase 2" width="48%" height="220px"/>
       </p>
       <p>Single Page Application moderna diseñada como catálogo interactivo. Enfoque en performance y UX fluida.</p>
-      <p>
+      <p align="center">
         <a href="https://product-showcase-vue.netlify.app/"><img src="https://img.shields.io/badge/Demo-🚀-blue?style=for-the-badge" alt="Demo"/></a>
         <a href="https://github.com/jltamayocabello-droid/m7_abp_product-showcase"><img src="https://img.shields.io/badge/Repo-📂-black?style=for-the-badge" alt="Repo"/></a>
       </p>
@@ -94,11 +94,11 @@ Mi enfoque principal es transformar requerimientos complejos en interfaces intui
     <td width="100%" valign="top">
       <h3>📚 Booklist SPA</h3>
       <p align="center">
-        <img src="assets/booklist-spa1.png" alt="Booklist SPA 1" width="49%"/>
-        <img src="assets/booklist-spa2.png" alt="Booklist SPA 2" width="49%"/>
+        <img src="assets/booklist-spa1.png" alt="Booklist SPA 1" width="48%" height="220px"/>
+        <img src="assets/booklist-spa2.png" alt="Booklist SPA 2" width="48%" height="220px"/>
       </p>
       <p>Gestión de catálogos bibliográficos con filtrado dinámico y registro en tiempo real. Interfaz escalable.</p>
-      <p>
+      <p align="center">
         <a href="https://m6-abp-booklist-spa.vercel.app/"><img src="https://img.shields.io/badge/Demo-🚀-blue?style=for-the-badge" alt="Demo"/></a>
         <a href="https://github.com/jltamayocabello-droid/m6_abp_booklist-spa"><img src="https://img.shields.io/badge/Repo-📂-black?style=for-the-badge" alt="Repo"/></a>
       </p>
@@ -111,11 +111,11 @@ Mi enfoque principal es transformar requerimientos complejos en interfaces intui
     <td width="100%" valign="top">
       <h3>💰 SmartBudget</h3>
       <p align="center">
-        <img src="assets/smartbudget1.png" alt="SmartBudget 1" width="49%"/>
-        <img src="assets/smartbudget2.png" alt="SmartBudget 2" width="49%"/>
+        <img src="assets/smartbudget1.png" alt="SmartBudget 1" width="48%" height="220px"/>
+        <img src="assets/smartbudget2.png" alt="SmartBudget 2" width="48%" height="220px"/>
       </p>
       <p>Visualizador de finanzas personales con arquitectura modular y diseño Mobile First.</p>
-      <p>
+      <p align="center">
         <a href="https://jltamayocabello-droid.github.io/m3-abp-smartbudget/"><img src="https://img.shields.io/badge/Demo-🚀-blue?style=for-the-badge" alt="Demo"/></a>
         <a href="https://github.com/jltamayocabello-droid/m3-abp-smartbudget"><img src="https://img.shields.io/badge/Repo-📂-black?style=for-the-badge" alt="Repo"/></a>
       </p>
@@ -136,6 +136,6 @@ Mi enfoque principal es transformar requerimientos complejos en interfaces intui
 
 ## 📫 Conectemos
 
-- **LinkedIn:** [[https://www.linkedin.com/in/jorge-tamayo-14a9903b1/](https://www.linkedin.com/in/jorge-tamayo-14a9903b1/)]
+- **LinkedIn:** [https://www.linkedin.com/in/jorge-tamayo-14a9903b1/](https://www.linkedin.com/in/jorge-tamayo-14a9903b1/)
 - **Portafolio Web:** [Enlace a tu portafolio]
-- **Email:** [jltamayocabello@gmail.com]
+- **Email:** jltamayocabello@gmail.com
