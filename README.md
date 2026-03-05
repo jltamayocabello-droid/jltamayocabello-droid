@@ -87,7 +87,7 @@ Mi enfoque principal es transformar requerimientos complejos en interfaces intui
         <a href="https://m6-abp-booklist-spa.vercel.app/"><img src="https://img.shields.io/badge/Demo-🚀-blue?style=for-the-badge" alt="Demo"/></a>
         <a href="https://github.com/jltamayocabello-droid/m6_abp_booklist-spa"><img src="https://img.shields.io/badge/Repo-📂-black?style=for-the-badge" alt="Repo"/></a>
       </p>
-      <p>🛠️ <b>Vue 3, Pinia, Axios, BEM, SASS, Vercel</b></p>
+      <p>🛠️ <b>Vue 3, Pinia, Vercel</b></p>
     </td>
   </tr>
   <tr>
