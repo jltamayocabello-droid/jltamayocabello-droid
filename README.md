@@ -1,7 +1,7 @@
 # ¡Hola! Soy Jorge Tamayo Cabello 👋
 
 <p align="center">
-  <img src="assets/pixel-coder.png" alt="Dark Pixel Coder Icon" width="600px"/>
+  <img src="assets/pixel-coder.png" alt="Dark Pixel Coder Icon" width="300px"/>
 </p>
 
 ### Apasionado por la tecnología y desarrollador Front-End en constante evolución.
@@ -23,6 +23,8 @@ Mi enfoque principal es transformar requerimientos complejos en interfaces intui
 ---
 
 ## 🛠️ Mi Stack Técnico Principal
+
+<div align="center">
 
 ### 📱 Core Web
 
@@ -54,6 +56,8 @@ Mi enfoque principal es transformar requerimientos complejos en interfaces intui
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+</div>
 
 ---
 
