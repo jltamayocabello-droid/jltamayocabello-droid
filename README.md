@@ -76,7 +76,7 @@ Mi enfoque principal es transformar requerimientos complejos en interfaces intui
   <!-- Proyecto 1 -->
   <tr align="center">
     <td width="100%" valign="top">
-      <h3>Proyecto 1: Product Showcase SPA</h3>
+      <h3>🛍️ Proyecto 1: Product Showcase SPA</h3>
       <p align="center">
         <img src="assets/product-showcase1.png" alt="Product Showcase 1" width="48%" height="220px"/>
         <img src="assets/product-showcase2.png" alt="Product Showcase 2" width="48%" height="220px"/>
@@ -94,10 +94,10 @@ Mi enfoque principal es transformar requerimientos complejos en interfaces intui
   <!-- Proyecto 2 -->
   <tr align="center">
     <td width="100%" valign="top">
-      <h3>Proyecto 2: Booklist SPA</h3>
+      <h3>📚 Proyecto 2: Booklist SPA</h3>
       <p align="center">
-        <img src="assets/booklist-spa1.png" alt="Booklist SPA 1" width="48%" height="220px"/>
-        <img src="assets/booklist-spa2.png" alt="Booklist SPA 2" width="48%" height="220px"/>
+        <img src="assets/booklist-spa1.png" alt="Booklist SPA 1" width="48%" height="200px"/>
+        <img src="assets/booklist-spa2.png" alt="Booklist SPA 2" width="48%" height="200px"/>
       </p>
       <p align="center">Gestión de catálogos bibliográficos con filtrado dinámico y registro en tiempo real. Interfaz escalable.</p>
       <p align="center">
@@ -112,7 +112,7 @@ Mi enfoque principal es transformar requerimientos complejos en interfaces intui
   <!-- Proyecto 3 -->
   <tr align="center">
     <td width="100%" valign="top">
-      <h3>Proyecto 3: SmartBudget</h3>
+      <h3>💰 Proyecto 3: SmartBudget</h3>
       <p align="center">
         <img src="assets/smartbudget1.png" alt="SmartBudget 1" width="48%" height="220px"/>
         <img src="assets/smartbudget2.png" alt="SmartBudget 2" width="48%" height="220px"/>
