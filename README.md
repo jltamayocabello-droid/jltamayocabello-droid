@@ -86,7 +86,7 @@ Mi enfoque principal es transformar requerimientos complejos en interfaces intui
         <a href="https://product-showcase-vue.netlify.app/"><img src="https://img.shields.io/badge/Despliegue-🚀-blue?style=for-the-badge" alt="Despliegue"/></a>
         <a href="https://github.com/jltamayocabello-droid/m7_abp_product-showcase"><img src="https://img.shields.io/badge/Repositorio-📂-black?style=for-the-badge" alt="Repositorio"/></a>
       </p>
-      <p align="center">🛠️ <b>Vue 3, Vite, Vue Router 4, Pinia, Bootstrap 5, Firebase, Vuetify, GitHub Pages, Netlify</b></p>
+      <p align="center">🛠️ <b>Vue 3, Vite, Vue Router 4, Pinia, Bootstrap 5, Firebase, Vuetify, GitHub Actions, Netlify</b></p>
       <br>
     </td>
   </tr>
@@ -104,7 +104,7 @@ Mi enfoque principal es transformar requerimientos complejos en interfaces intui
         <a href="https://m6-abp-booklist-spa.vercel.app/"><img src="https://img.shields.io/badge/Despliegue-🚀-blue?style=for-the-badge" alt="Despliegue"/></a>
         <a href="https://github.com/jltamayocabello-droid/m6_abp_booklist-spa"><img src="https://img.shields.io/badge/Repositorio-📂-black?style=for-the-badge" alt="Repositorio"/></a>
       </p>
-      <p align="center">🛠️ <b>Vue 3, Vite, Vue Router 4, Pinia, GitHub Pages, Vercel</b></p>
+      <p align="center">🛠️ <b>Vue 3, Vite, Vue Router 4, Pinia, GitHub Actions, Vercel</b></p>
       <br>
     </td>
   </tr>
@@ -141,6 +141,6 @@ Mi enfoque principal es transformar requerimientos complejos en interfaces intui
 
 ## 📫 Conectemos
 
-- **LinkedIn:** [https://www.linkedin.com/in/jorge-tamayo-14a9903b1/](https://www.linkedin.com/in/jorge-tamayo-14a9903b1/)
-- **Portafolio Web:** [Enlace a tu portafolio]
+- **LinkedIn:** [https://www.linkedin.com/in/jorge-tamayo-c/](https://www.linkedin.com/in/jorge-tamayo-c/)
+- **Portafolio Web:** https://mi-portafolio-vuetify.vercel.app/
 - **Email:** jltamayocabello@gmail.com
