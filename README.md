@@ -141,6 +141,6 @@ Mi enfoque principal es transformar requerimientos complejos en interfaces intui
 
 ## 📫 Conectemos
 
-- **LinkedIn:** [https://www.linkedin.com/in/jorge-tamayo-c/](https://www.linkedin.com/in/jorge-tamayo-c/)
-- **Portafolio Web:** https://mi-portafolio-vuetify.vercel.app/
+- **LinkedIn:** https://www.linkedin.com/in/jorge-tamayo-c
+- **Portafolio Web:** https://mi-portafolio-vuetify.vercel.app
 - **Email:** jltamayocabello@gmail.com
