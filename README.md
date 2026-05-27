@@ -67,8 +67,7 @@ Mi enfoque principal es transformar requerimientos complejos en interfaces intui
 
 ## 🚀 Qué estoy haciendo ahora
 
-- 💻 Construyendo mi portafolio digital aplicando buenas prácticas de despliegue y performance.
-- 🧠 Profundizando en Desarrollo con IA.
+- 🧠 Profundizando en Desarrollo con IA y estudiando Back-End
 - 🤝 Buscando mi primera oportunidad laboral como Front-End Trainee/Junior.
 
 ---
