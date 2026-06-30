@@ -8,7 +8,7 @@
 
 Me especializo en la creación de **Single Page Applications (SPAs)** escalables y eficientes utilizando el ecosistema de **Vue.js**. Mi enfoque se centra en la implementación de arquitecturas limpias, componentes altamente reutilizables y principios de sobriedad digital para garantizar una experiencia de usuario óptima.
 
-Domino la metodología **BEM** y el preprocesamiento con **SASS** para un desarrollo de estilos profesional y mantenible. Actualmente, mi curiosidad me impulsa a explorar el potencial de la **IA integrada al desarrollo** y a expandir mi stack hacia el **Backend**.
+Domino la metodología **BEM** y el preprocesamiento con **SASS** para un desarrollo de estilos profesional y mantenible. Actualmente, me encuentro expandiendo mi stack hacia el **Backend** y el **Diseño UX**.
 
 Mi enfoque principal es transformar requerimientos complejos en interfaces intuitivas y eficientes.
 
