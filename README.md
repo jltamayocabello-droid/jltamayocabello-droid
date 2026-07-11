@@ -67,8 +67,8 @@ Mi enfoque principal es transformar requerimientos complejos en interfaces intui
 
 ## 🚀 Qué estoy haciendo ahora
 
-- 🧠 Profundizando en Desarrollo con IA y estudiando Back-End
-- 🤝 Buscando mi primera oportunidad laboral como Front-End Trainee/Junior.
+- 🧠 Estudiando Back-end y Diseño UX
+- 🤝 Buscando oportunidades laborales en el diseño web.
 
 ---
 
@@ -133,7 +133,7 @@ Mi enfoque principal es transformar requerimientos complejos en interfaces intui
   <tr align="center">
     <td width="100%" valign="top">
       <h3>✨ Próximamente</h3>
-      <p align="center">Nuevos proyectos explorando el mundo del Backend y el desarrollo de aplicaciones con asistencia de la IA.</p>
+      <p align="center">Nuevos proyectos explorando el mundo del Back-End y el Diseño UX.</p>
       <br>
     </td>
   </tr>
