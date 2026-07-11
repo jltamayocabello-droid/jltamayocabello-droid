@@ -4,13 +4,11 @@
   <img src="assets/Programador.png" alt="Programador" width="350px"/>
 </p>
 
-### Apasionado por la tecnología y desarrollador Front-End en constante evolución.
+### Apasionado por la tecnología, la gestión de información y el aprendizaje continuo
 
-Me especializo en la creación de **Single Page Applications (SPAs)** escalables y eficientes utilizando el ecosistema de **Vue.js**. Mi enfoque se centra en la implementación de arquitecturas limpias, componentes altamente reutilizables y principios de sobriedad digital para garantizar una experiencia de usuario óptima.
+Desarrollador Front-End con formación en Vue 3, JavaScript ES6+, Pinia y Vuetify, enfocado en la creación de aplicaciones web modernas, escalables y centradas en el usuario. Desarrollo interfaces responsivas aplicando arquitectura basada en componentes, integración de APIs REST y gestión de estado, complementando mi trabajo con SASS y la metodología BEM para construir código mantenible, modular y reutilizable. Mi flujo de desarrollo incluye herramientas como Git, GitHub, Vite, Firebase, Vercel y Netlify.
 
-Domino la metodología **BEM** y el preprocesamiento con **SASS** para un desarrollo de estilos profesional y mantenible. Actualmente, me encuentro expandiendo mi stack hacia el **Backend** y el **Diseño UX**.
-
-Mi enfoque principal es transformar requerimientos complejos en interfaces intuitivas y eficientes.
+Mi formación como Historiador y mi experiencia en gestión de información, investigación y documentación han fortalecido mis capacidades de análisis, organización de datos y resolución de problemas, aportando una perspectiva estructurada al desarrollo de software. Actualmente continúo ampliando mis conocimientos en Python, desarrollo Back-End, Diseño UX e inteligencia artificial, con el objetivo de participar en proyectos que combinen tecnología, innovación y transformación digital.
 
 ---
 
